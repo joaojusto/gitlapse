@@ -1,0 +1,13 @@
+{
+  "ecmaFeatures": {
+    "forOf": true,
+    "blockBindings": true,
+    "classes": true,
+    "destructuring": true,
+    "arrowFunctions": true,
+    "spread": true,
+  },
+  "env": {
+    "node": true,
+  },
+}

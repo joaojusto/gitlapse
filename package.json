@@ -1,0 +1,15 @@
+{
+  "name": "gitlapse",
+  "version": "0.0.1",
+  "description": "Walk your commit history",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodegit": "^0.11.1",
+    "q": "^1.4.1"
+  }
+}
